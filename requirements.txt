@@ -1,10 +1,6 @@
 streamlit
 pandas
 folium
-json
-requests
-datetime
-os
-sklearn
 joblib
-imblearn
+scikit-learn
+numpy
