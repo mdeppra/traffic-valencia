@@ -6,4 +6,4 @@ scikit-learn
 joblib
 imbalanced-learn
 requests
-numpysss
+numpy
