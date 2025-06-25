@@ -4,7 +4,7 @@ folium
 json
 requests
 datetime
-git os
+os
 sklearn
 joblib
 imblearn
