@@ -1,6 +1,9 @@
 streamlit
 pandas
 folium
-joblib
+streamlit-folium
 scikit-learn
-numpy
+joblib
+imbalanced-learn
+requests
+numpysss
